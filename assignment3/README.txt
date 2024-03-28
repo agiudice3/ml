@@ -12,9 +12,9 @@
 
 1. Download code:
 
-    - Either clone this repo:
+    - Either clone this repo: https://github.com/agiudice3/ml.git
 
-    - Or download a zip file from this link:
+    - Or download a zip file from this link: https://drive.google.com/file/d/1wr1WrDXi3knT8YurwRhDQANi5nrP5Qub/view?usp=sharing
 
 
 2.Run to install packages in requirements.txt:
